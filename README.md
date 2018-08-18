@@ -1,0 +1,2 @@
+## Starfish Coin
+Community Coin
