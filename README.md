@@ -9,15 +9,20 @@ The Starfish community uses [telegram](https://telegram.org/) as it's main messa
 * [SF Ethereum Solidity Saturdays](https://t.me/sf_ethereum_ss)
 * [Starfish Bay Area Group](https://t.me/starfishnetwork)
 
-### Getting Started
+## Getting Started
+This repository is for advanced developers who want to work with a local development environment
+You may want to start with the following web based IDE'S initially
 
-## Software requirements
+* [Crypto Zombies](https://cryptozombies.io/) - A great beginners tutorial on building decentralized apps
+* [Remix IDE](https://remix.ethereum.org/) - A web based IDE
+
+### Software requirements
 
 * [Brew](https://brew.sh/): ``` /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" ```
 
 * [Node.js](https://nodejs.org/en/) v8.1.2 or higher
     * To check your NodeJS version: ``` $ node -v ```
-    * Install via Brew if possible: ``` brew install node ```
+    * Install via Brew if possible: ``` $ brew install node ```
 
 * [Truffle.js](http://truffleframework.com/) v4.1.11 (core: 4.1.0)
     * To check your Truffle version: ``` $ truffle version ```
