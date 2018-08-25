@@ -6,8 +6,8 @@ This repository is used by the starfish community.
 
 The Starfish community uses [telegram](https://telegram.org/) as it's main messaging tool and utilizes the following communitites
 
-*[SF Ethereum Solidity Saturdays](https://t.me/sf_ethereum_ss)
-*[Starfish Bay Area Group](https://t.me/starfishnetwork)
+* [SF Ethereum Solidity Saturdays](https://t.me/sf_ethereum_ss)
+* [Starfish Bay Area Group](https://t.me/starfishnetwork)
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ Example: feature/posting
 
 Example: bug-fix/discover-text
 The goal of this flow is optimize for code reviews and cleanliness. The more segmented and contained work we can do the better we can focus on the task at hand, accomplish it, and implement.
-For a more in-depth Gitflow understanding read here: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+For a more in-depth Gitflow understanding read [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 ## Software requirements
 
