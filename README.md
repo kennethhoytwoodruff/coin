@@ -66,7 +66,7 @@ $ npm update
 * Creating a branch
 
 ```
-git checkout -b <branchname>
+$ git checkout -b <branchname>
 ```
 
 * Checking in your branch
