@@ -44,11 +44,18 @@ For a more in-depth Gitflow understanding read [here](https://www.atlassian.com/
 
 ### Working with this repository
 
-* Clone the repository locally
+* Clone the repository locally:
 
 ```
 $ git clone https://github.com/StarfishMission/coin.git
 ```
+
+* Install the necessary NPM Packages:
+```
+$ npm install
+$ npm update
+```
+(you don't have to flag ``` --save ``` with new versions for versions NPM)
 
 * Creating a branch
 
