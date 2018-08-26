@@ -1,0 +1,29 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "Starfish Mission Community Token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "1.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarfishMission/coin.git"
+  },
+  "keywords": [
+    "Starfish"
+  ],
+  "author": "Starfish Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StarfishMission/coin/issues"
+  },
+  "homepage": "https://github.com/StarfishMission/coin#readme"
+}
